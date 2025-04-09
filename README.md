@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @myronauditboard!
-- 📫 I am on the Audit team.
-- ⚡ Fun fact: I am building a LEGO city at home with my children.
+Software engineer on the Audit Executioners team.
+Backpacker, cyclist, AFOL, and grudging runner.
 
 <!---
 myronauditboard/myronauditboard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
